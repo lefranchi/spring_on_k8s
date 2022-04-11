@@ -1,6 +1,6 @@
 #Spring on Kubernetes
 
-Playgound:
+Playgorund:
 * Java 11
 * Spring Framework
 * Docker
